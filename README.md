@@ -52,6 +52,6 @@
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/fiveteenth.png)
 
 
-
-- text in red
-
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
