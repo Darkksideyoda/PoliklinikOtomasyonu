@@ -43,8 +43,14 @@
 
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/thirteenth.png)
 
-
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/fourteenth.png)
+
+
+![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/bakis.png)
+
+
+![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/fiveteenth.png)
+
 
 
 
