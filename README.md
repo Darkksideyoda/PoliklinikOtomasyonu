@@ -1,6 +1,9 @@
 # PoliklinikOtomasyonu
 
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/first1.png)
+Hasta bilgileri panelindeki textBoxlar otomatik seçilen hastaya göre dolmaktadır. Hekim Sırasıyla önce bekleyen hasta Gridinden
+Hasta seçmeli ve muayne paneline düşen hastaya tekrar tıklamalıdır.
+
 
 
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/second.png)
@@ -52,6 +55,3 @@
 ![alt text](https://raw.githubusercontent.com/Darkksideyoda/Darkksideyoda.github.io/master/Urlimages/fiveteenth.png)
 
 
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
